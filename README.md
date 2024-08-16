@@ -1,4 +1,4 @@
-# Graph Neural Networks in Supply Chain Optimization: Concepts, Perspectives, Dataset and Benchmarks
+# Graph Neural Networks in Supply Chain Analytics and Optimization: Concepts, Perspectives, Dataset and Benchmarks
 - Authors: Azmine Toushik Wasi, MD Shafikul Islam, Adipto Raihan Akib, and Mahathir Mohammad Bappy
 - Affiliation: Shahjalal University of Science and Technology, Sylhet, Bangladesh; Louisiana State University, Louisiana, USA;
 Computational Intelligence and Operations Laboratory, Sylhet, Bangladesh
