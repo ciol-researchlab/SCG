@@ -2,6 +2,7 @@
 - Authors: Azmine Toushik Wasi, MD Shafikul Islam, Adipto Raihan Akib, and Mahathir Mohammad Bappy
 - Affiliation: Shahjalal University of Science and Technology, Sylhet, Bangladesh; Louisiana State University, Louisiana, USA;
 Computational Intelligence and Operations Laboratory, Sylhet, Bangladesh
+- Dataset: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13652826.svg)](https://doi.org/10.5281/zenodo.13652826)
 
 ---
 
@@ -18,3 +19,39 @@ The `raw` folder contains the raw datasets. Homogeneous and heterogeneous forms 
 
 
 ![](./fig/WHAT-M.png)
+
+
+---
+
+For coding instructions, check `code\coding_directions.md`
+
+---
+
+## Citation:
+```
+@article{wasi2024supplygraph,
+      title={Graph Neural Networks in Supply Chain Analytics and Optimization: Concepts, Perspectives, Dataset and Benchmarks}, 
+      author={Azmine Toushik Wasi and MD Shafikul Islam and Adipto Raihan Akib  and Mahathir Mohammad Bappy},
+      year={2024},
+      journal={International Journal of Production Research},
+      note={In Review}
+}
+```
+and, 
+```
+@dataset{wasi_2024_13652826,
+  author       = {Wasi, Azmine Toushik and
+                  Islam, MD Shafikul and
+                  Akib, Adipto Raihan and
+                  Bappy, Mahathir Mohammad},
+  title        = {{SCG Dataset from Graph Neural Networks in Supply 
+                   Chain Analytics and Optimization: Concepts,
+                   Perspectives, Dataset and Benchmarks}},
+  month        = sep,
+  year         = 2024,
+  publisher    = {Zenodo},
+  version      = 1,
+  doi          = {10.5281/zenodo.13652826},
+  url          = {https://doi.org/10.5281/zenodo.13652826}
+}
+```
