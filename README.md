@@ -29,12 +29,14 @@ For coding instructions, check `code\coding_directions.md`
 
 ## Citation:
 ```
-@article{wasi2024supplygraph,
+@misc{wasi2024graphneuralnetworkssupply,
       title={Graph Neural Networks in Supply Chain Analytics and Optimization: Concepts, Perspectives, Dataset and Benchmarks}, 
-      author={Azmine Toushik Wasi and MD Shafikul Islam and Adipto Raihan Akib  and Mahathir Mohammad Bappy},
+      author={Azmine Toushik Wasi and MD Shafikul Islam and Adipto Raihan Akib and Mahathir Mohammad Bappy},
       year={2024},
-      journal={International Journal of Production Research},
-      note={In Review}
+      eprint={2411.08550},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2411.08550}, 
 }
 ```
 and, 
