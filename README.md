@@ -3,9 +3,16 @@
 - Affiliation: Shahjalal University of Science and Technology, Sylhet, Bangladesh; Louisiana State University, Louisiana, USA;
 Computational Intelligence and Operations Laboratory, Sylhet, Bangladesh
 
+
+<div align="center">
+
 [![arXiv](https://img.shields.io/badge/arXiv-2411.08550-red.svg)](https://arxiv.org/abs/2411.08550)
 [![DOI](https://zenodo.org/badge/DOI/10.48550/arXiv.2411.08550.svg)](https://doi.org/10.48550/arXiv.2411.08550)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13652826.svg)](https://doi.org/10.5281/zenodo.13652826)
+[![arXiv](https://img.shields.io/badge/Papers-with_Code-blue.svg)](https://paperswithcode.com/dataset/scg)
+
+</div>
+
 
 ---
 
